@@ -1,5 +1,5 @@
 # Blooket-Icons
-A JSON file with all of the blooket icon links from the Blooket Amazon AWS servers. Don't ask how long it took to compile this.
+JSON files with the Blooket Blook links. A project I made for my Blooket Discord bot. Don't ask how long it took to compile this.
 ## Updating
 Hopefully this should be updated with the latest blooks, however, if not, please don't hesitate to [leave an issue](https://github.com/SorkoPiko/Blooket-Icons/issues/new) and I'll sort it out as soon as possible.
 ## Invalid Link
