@@ -1,7 +1,7 @@
 import json
 
-with open('icons.json', 'r') as iconsR:
+with open('iconsNew.json', 'r', encoding='utf-8') as iconsR:
     icons = json.load(iconsR)
 
-with open('icons.min.json', 'w') as iconsW:
+with open('iconsNew.min.json', 'w') as iconsW:
     json.dump(icons, iconsW)
